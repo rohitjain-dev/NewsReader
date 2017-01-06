@@ -20,6 +20,7 @@ import java.util.List;
 
 /**
  * Created by Rohit Jain on 12/26/2016.
+ * now completed
  */
 
 public final class QueryUtils {
